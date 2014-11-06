@@ -12,6 +12,9 @@ use Mockery;
 require __DIR__ . '/../bootstrap.php';
 
 
+/**
+ * @testCase
+ */
 class LinkFactoryTest extends Tester\TestCase
 {
 
